@@ -49,7 +49,7 @@ To validate the insights derived from the Decision Tree model, a feature importa
 
 By training a Decision Tree model using key service-related features, we find that Contract_Month-to-Month is the most important factor driving customer churn, followed by Internet Service: Fiber Optic. When further combined with customers who lack Online Security and Tech Support, the model uncovers a high-risk segment with a churn probability of 61%. This means that customers on month-to-month contracts who use fiber optic internet but do not have access to online security or technical support are significantly more likely to leave.
 
-# Customer Segmentation
+## Customer Segmentation
 Although Objective 3 aimed to segment customers by churn risk using key features, no advanced data mining or clustering techniques (e.g., k-means or decision trees) were applied, instead segments were created through basic groupings and manual rule-based classification.
 
 <img width="468" height="226" alt="image" src="https://github.com/user-attachments/assets/1404e304-8896-415f-99dd-a5144fdbc72c" />
